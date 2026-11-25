@@ -1,0 +1,16 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+canciones/
+portadas/
+analisis_musical/
+biblioteca_ritmo.json
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.zip
+.vscode/
+.env
